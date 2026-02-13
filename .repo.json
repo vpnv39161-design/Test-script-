@@ -1,6 +1,8 @@
 {
   "name": "Cineo VIP",
   "author": "Cineo",
-  "description": "مرحباً بك في عالم Cineo الخاص",
-  "pluginLists": []
+  "description": "Welcome to Cineo World",
+  "pluginLists": [
+    "https://raw.githubusercontent.com/recloudstream/arabic-extensions/master/plugins.json"
+  ]
 }
