@@ -4,5 +4,4 @@
   "description": "Welcome to Cineo World",
   "pluginLists": [
     "https://raw.githubusercontent.com/recloudstream/arabic-extensions/master/plugins.json"
-  ]
-}
+]
